@@ -9,3 +9,6 @@ An Explorartory Data Analysis project where a team consisting of myself and a pa
 3. Does Launch Date and Time Duration of a project have any association with its success?
 
 4. Which country has the highest success rate of projects?
+
+
+Data Source: https://www.kaggle.com/kemical/kickstarter-projects
